@@ -1,2 +1,5 @@
-# Stegano-Project
-This is a project for an Internship for Edunet provided by AICTE
+stego py need cv2 lib
+
+solution 
+
+pip install cv2
